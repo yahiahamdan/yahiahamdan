@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource**
 
-- 💬 Ask me about **c#, asp.net Core Webapi,javascript ,React ,aws**
+- 💬 Ask me about **c#,  WebAPI,nodejs ,React,aws**
 
 - 📫 How to reach me **hamdanyahia2@gmail.com**
 
