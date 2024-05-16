@@ -1,9 +1,7 @@
 
 <h3 align="center">👨‍💻 A backend engineer
                    passionate about ⚡Cloud Computing </h3>
-
-- 🌱 I’m currently **🍎 Brute forcing problems on HackerRank and Leetcode 🐳**
-
+                
 - 📫 How to reach me **hamdanyahia2@gmail.com**
 - 
 <h3 align="left">Connect with me:</h3>
